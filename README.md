@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitsumitsingh
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in MERN Stack / ASP.NET CORE + React
 - 🌱 I’m currently learning Node Express
 - 💞️ I’m looking to collaborate on MERN Projects
 - 📫 How to reach me ...
